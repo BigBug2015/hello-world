@@ -1,4 +1,4 @@
 # hello-world
 My first repository on GitHub
 print "hello world"
-I love programming.
+I love programming and party.
